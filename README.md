@@ -52,7 +52,7 @@ echo password_hash('your_password', PASSWORD_BCRYPT);
 ## 截图预览
 
 ![登录界面](https://github.com/user-attachments/assets/45d2cf6b-aa01-4ec6-89c9-5de4d723cbc7)
-![上传界面](https://github.com/user-attachments/assets/8e1d1e51-9e2b-4ac1-8727-c643f553cc87)
+![上传界面](https://github.com/user-attachments/assets/f798c7be-7d30-4fcd-8264-2238e0dff8a5)
 ![图片管理](https://github.com/user-attachments/assets/4ccd84a5-989f-4827-a086-edc8e0cb0705)
 
 ## **🤝 贡献指南**  
